@@ -1,0 +1,135 @@
+foxxy-tools (3.10+foxxy2) testing; urgency=medium
+
+  * Add cgdb debugger.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Fri, 20 Apr 2018 10:14:52 +0200
+
+foxxy-tools (3.10+foxxy1) testing; urgency=medium
+
+  * Add mat dependency to foxxy-crypto.
+  * Make foxxy-crypto provide the foxxy-anon virtual package.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Tue, 23 Jan 2018 17:24:09 +0100
+
+foxxy-tools (3.9+foxxy2) testing; urgency=medium
+
+  * Replace recordmydesktop with vokoscreen (thank you jeff).
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sun, 21 Jan 2018 22:05:51 +0100
+
+foxxy-tools (3.9+foxxy1) testing; urgency=medium
+
+  * Improve packages description.
+  * Add automotive tools and metapackages.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Wed, 17 Jan 2018 15:37:25 +0100
+
+foxxy-tools (3.8+foxxy0) testing; urgency=medium
+
+  * Improve tools selection.
+  * Fix typo.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Wed, 15 Nov 2017 10:56:45 +0100
+
+foxxy-tools (3.7+foxxy0) testing; urgency=medium
+
+  * Review some metapackages.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Tue, 26 Sep 2017 19:14:32 +0200
+
+foxxy-tools (3.6+foxxy0) testing; urgency=medium
+
+  * Add airgeddon to foxxy-meta-wireless.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Wed, 05 Jul 2017 13:55:14 +0200
+
+foxxy-tools (3.5+foxxy4) testing; urgency=medium
+
+  * Add anonsurf to foxxy-crypto
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Thu, 02 Mar 2017 14:54:11 +0100
+
+foxxy-tools (3.5+foxxy3) testing; urgency=medium
+
+  * Remove florence virtual keyboard
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Mon, 27 Feb 2017 17:33:45 +0100
+
+foxxy-tools (3.5+foxxy2) testing; urgency=medium
+
+  * Review metapackages
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sun, 26 Feb 2017 17:29:56 +0100
+
+foxxy-tools (3.5+foxxy1) testing; urgency=medium
+
+  * Add foxxy-crypto to dependencies
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Fri, 24 Feb 2017 00:39:31 +0100
+
+foxxy-tools (3.5+foxxy0) testing; urgency=medium
+
+  * Create foxxy-crypto metapackage
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Fri, 24 Feb 2017 00:28:08 +0100
+
+foxxy-tools (3.4+foxxy1) testing; urgency=medium
+
+  * Add sirikali
+
+ -- Lisetta "Sheireen" Ferrero <sheireen@foxxysec.org>  Thu, 23 Feb 2017 23:31:28 +0100
+
+foxxy-tools (3.4+foxxy0) testing; urgency=medium
+
+  * Add quickhash
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Thu, 29 Dec 2016 19:13:04 +0100
+
+foxxy-tools (3.3+foxxy2) testing; urgency=medium
+
+  * Add missing whois tool
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sun, 09 Oct 2016 15:23:50 +0200
+
+foxxy-tools (3.3+foxxy1) testing; urgency=medium
+
+  * Add missing traceroute tool
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sun, 09 Oct 2016 15:20:44 +0200
+
+foxxy-tools (3.3+foxxy0) testing; urgency=medium
+
+  * add kayak automotive tool
+  * add linset wifi tool
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sat, 01 Oct 2016 01:04:24 +0200
+
+foxxy-tools (3.2+foxxy1) testing; urgency=medium
+
+  * remove veil
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sun, 24 Jul 2016 18:47:08 +0200
+
+foxxy-tools (3.2+foxxy0) testing; urgency=medium
+
+  * Add newly imported tools
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sun, 24 Jul 2016 02:34:48 +0200
+
+foxxy-tools (3.1+foxxy0) testing; urgency=medium
+
+  * add Foxxy Mini and Foxxy Pico support
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@foxxysec.org>  Tue, 28 Jun 2016 00:20:29 +0200
+
+foxxy-tools (3.0+foxxy1) testing; urgency=medium
+
+  * add ssvnc and joomlascan
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@foxxysec.org>  Sun, 05 Jun 2016 01:47:32 +0200
+
+foxxy-tools (3.0+foxxy0) testing; urgency=medium
+
+  * Debianize source code and import into new tree
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@foxxysec.org>  Mon, 23 May 2016 17:47:41 +0200
